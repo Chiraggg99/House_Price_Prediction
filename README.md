@@ -1,7 +1,7 @@
 # 🏡 House Price Prediction using XGBoost
 
 ## 📌 Overview
-This project implements an **XGBoost (Extreme Gradient Boosting)** model to predict house prices based on various real estate features. The goal is to create a regression model that accurately estimates house prices from input variables.
+A machine learning model utilizing XGBoost to estimate house prices based on various property-related features. The goal is to create a regression model that accurately estimates house prices from input variables.
 
 ---
 
@@ -40,3 +40,4 @@ Install the necessary dependencies using pip:
 
 ```bash
 pip install numpy pandas scikit-learn xgboost matplotlib seaborn
+
